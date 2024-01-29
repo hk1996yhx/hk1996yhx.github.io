@@ -1,3 +1,5 @@
+http://example.com/tags/index%20-%20%E5%89%AF%E6%9C%AC.html
+http://example.com/tags/index.html
 http://example.com/2024/01/30/Untitled-1/
 http://example.com/2024/01/30/hello-world/
 http://example.com/2024/01/30/Untitled/
