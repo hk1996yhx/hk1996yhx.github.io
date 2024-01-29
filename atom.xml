@@ -40,6 +40,30 @@
   </entry>
   
   <entry>
+    <title></title>
+    <link href="http://example.com/2024/01/30/windows%E5%AE%89%E8%A3%85Git/"/>
+    <id>http://example.com/2024/01/30/windows%E5%AE%89%E8%A3%85Git/</id>
+    <published>2024-01-29T19:23:09.904Z</published>
+    <updated>2024-01-29T21:41:16.779Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>-webkit-text-size-adjust: 100%;--animate-duration: 1s;--animate-delay: 1s;--animate-repeat: 1;--cm-color-primary-rgb: 64, 158, 255;--cm-color-success-rgb: 103, 194, 58;--cm-color-warning-rgb: 230, 162, 60;--cm-color-danger-rgb: 245, 108, 108;--cm-color-error-rgb: 245, 108, 108;--cm-color-info-rgb: 144, 147, 153;--cm-font-size-extra-large: 20px;--cm-font-size-large: 18px;--cm-font-size-medium: 16px;--cm-font-size-base: 14px;--cm-font-size-small: 13px;--cm-font-size-extra-small: 12px;--cm-font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;,&quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;微软雅黑&quot;, Arial, sans-serif;--cm-font-weight-primary: 500;--cm-font-line-height-primary: 24px;--cm-index-normal: 1;--cm-index-top: 1000;--cm-index-popper: 2000;--cm-border-radius-base: 4px;--cm-border-radius-small: 2px;--cm-border-radius-round: 20px;--cm-border-radius-circle: 100%;--cm-transition-duration: 0.3s;--cm-transition-duration-fast: 0.2s;--cm-transition-function-ease-in-out-bezier: cubic-bezier(0.645,0.045,0.355,1</code></pre><p>  );<br>    –cm-transition-function-fast-bezier: cubic-bezier(0.23, 1, 0.32, 1);<br>    –cm-transition-all: all var(–cm-transition-duration)<br>    var(–cm-transition-function-ease-in-out-bezier);<br>    –cm-transition-fade: opacity var(–cm-transition-duration)<br>    var(–cm-transition-function-fast-bezier);<br>    –cm-transition-md-fade: transform var(–cm-transition-duration)<br>      var(–cm-transition-function-fast-bezier),<br>    opacity var(–cm-transition-duration)<br>      var(–cm-transition-function-fast-bezier);<br>    –cm-transition-fade-linear: opacity var(–cm-transition-duration-fast) linear;<br>    –cm-transition-border: border-color var(–cm-transition-duration-fast)<br>    var(–cm-transition-function-ease-in-out-bezier);<br>    –cm-transition-box-shadow: box-shadow var(–cm-transition-duration-fast)<br>    var(–cm-transition-function-ease-in-out-bezier);<br>    –cm-transition-color: color var(–cm-transition-duration-fast)<br>    var(–cm-transition-function-ease-in-out-bezier);<br>    –cm-component-size-large: 40px;<br>    –cm-component-size: 32px;<br>    –cm-component-size-small: 24px;<br>    color-scheme: light;<br>    –cm-color-white: #ffffff;<br>    –cm-color-black: #000000;<br>    –cm-color-primary: #409eff;<br>    –cm-color-primary-light-3: #79bbff;<br>    –cm-color-primary-light-5: #a0cfff;<br>    –cm-color-primary-light-7: #c6e2ff;<br>    –cm-color-primary-light-8: #d9ecff;<br>    –cm-color-primary-light-9: #ecf5ff;<br>    –cm-color-primary-dark-2: #337ecc;<br>    –cm-color-success: #67c23a;<br>    –cm-color-success-light-3: #95d475;<br>    –cm-color-success-light-5: #b3e19d;<br>    –cm-color-success-light-7: #d1edc4;<br>    –cm-color-success-light-8: #e1f3d8;<br>    –cm-color-success-light-9: #f0f9eb;<br>    –cm-color-success-dark-2: #529b2e;<br>    –cm-color-warning: #e6a23c;<br>    –cm-color-warning-light-3: #eebe77;<br>    –cm-color-warning-light-5: #f3d19e;<br>    –cm-color-warning-light-7: #f8e3c5;<br>    –cm-color-warning-light-8: #faecd8;<br>    –cm-color-warning-light-9: #fdf6ec;<br>    –cm-color-warning-dark-2: #b88230;<br>    –cm-color-danger: #f56c6c;<br>    –cm-color-danger-light-3: #f89898;<br>    –cm-color-danger-light-5: #fab6b6;<br>    –cm-color-danger-light-7: #fcd3d3;<br>    –cm-color-danger-light-8: #fde2e2;<br>    –cm-color-danger-light-9: #fef0f0;<br>    –cm-color-danger-dark-2: #c45656;<br>    –cm-color-error: #f56c6c;<br>    –cm-color-error-light-3: #f89898;<br>    –cm-color-error-light-5: #fab6b6;<br>    –cm-color-error-light-7: #fcd3d3;<br>    –cm-color-error-light-8: #fde2e2;<br>    –cm-color-error-light-9: #fef0f0;<br>    –cm-color-error-dark-2: #c45656;<br>    –cm-color-info: #909399;<br>    –cm-color-info-light-3: #b1b3b8;<br>    –cm-color-info-light-5: #c8c9cc;<br>    –cm-color-info-light-7: #dedfe0;<br>    –cm-color-info-light-8: #e9e9eb;<br>    –cm-color-info-light-9: #f4f4f5;<br>    –cm-color-info-dark-2: #73767a;<br>    –cm-bg-color: #ffffff;<br>    –cm-bg-color-page: #f2f3f5;<br>    –cm-bg-color-overlay: #ffffff;<br>    –cm-text-color-primary: #303133;<br>    –cm-text-color-regular: #606266;<br>    –cm-text-color-secondary: #909399;<br>    –cm-text-color-placeholder: #a8abb2;<br>    –cm-text-color-disabled: #c0c4cc;<br>    –cm-border-color: #dcdfe6;<br>    –cm-border-color-light: #e4e7ed;<br>    –cm-border-color-lighter: #ebeef5;<br>    –cm-border-color-extra-light: #f2f6fc;<br>    –cm-border-color-dark: #d4d7de;<br>    –cm-border-color-darker: #cdd0d6;<br>    –cm-fill-color: #f0f2f5;<br>    –cm-fill-color-light: #f5f7fa;<br>    –cm-fill-color-lighter: #fafafa;<br>    –cm-fill-color-extra-light: #fafcff;<br>    –cm-fill-color-dark: #ebedf0;<br>    –cm-fill-color-darker: #e6e8eb;<br>    –cm-fill-color-blank: #ffffff;<br>    –cm-box-shadow: 0px 12px 32px 4px rgba(0, 0, 0, 0.04),<br>    0px 8px 20px rgba(0, 0, 0, 0.08);<br>    –cm-box-shadow-light: 0px 0px 12px rgba(0, 0, 0, 0.12);<br>    –cm-box-shadow-lighter: 0px 0px 6px rgba(0, 0, 0, 0.12);<br>    –cm-box-shadow-dark: 0px 16px 48px 16px rgba(0, 0, 0, 0.08),<br>    0px 12px 32px rgba(0, 0, 0, 0.12), 0px 8px 16px -8px rgba(0, 0, 0, 0.16);<br>    –cm-disabled-bg-color: var(–cm-fill-color-light);<br>    –cm-disabled-text-color: var(–cm-text-color-placeholder);<br>    –cm-disabled-border-color: var(–cm-border-color-light);<br>    –cm-overlay-color: rgba(0, 0, 0, 0.8);<br>    –cm-overlay-color-light: rgba(0, 0, 0, 0.7);<br>    –cm-overlay-color-lighter: rgba(0, 0, 0, 0.5);<br>    –cm-mask-color: rgba(255, 255, 255, 0.9);<br>    –cm-mask-color-extra-light: rgba(255, 255, 255, 0.3);<br>    –cm-border-width: 1px;<br>    –cm-border-style: solid;<br>    –cm-border-color-hover: var(–cm-text-color-disabled);<br>    –cm-border: var(–cm-border-width) var(–cm-border-style)<br>    var(–cm-border-color);<br>    –cm-svg-monochrome-grey: var(–cm-border-color);<br>    –cm-popup-modal-bg-color: var(–cm-color-black);<br>    –cm-popup-modal-opacity: 0.5;<br>    –cm-loading-spinner-size: 42px;<br>    –cm-loading-fullscreen-spinner-size: 50px;<br>    –cm-menu-active-color: var(–cm-color-primary);<br>    –cm-menu-text-color: var(–cm-text-color-primary);<br>    –cm-menu-hover-text-color: var(–cm-color-primary);<br>    –cm-menu-bg-color: var(–cm-fill-color-blank);<br>    –cm-menu-hover-bg-color: var(–cm-color-primary-light-9);<br>    –cm-menu-item-height: 40px;<br>    –cm-menu-sub-item-height: calc(var(–cm-menu-item-height) - 6px);<br>    –cm-menu-horizontal-sub-item-height: 36px;<br>    –cm-menu-item-font-size: var(–cm-font-size-base);<br>    –cm-menu-item-hover-fill: var(–cm-color-primary-light-9);<br>    –cm-menu-border-color: var(–cm-border-color);<br>    –cm-menu-base-levcm-padding: 20px;<br>    –cm-menu-levcm-padding: 20px;<br>    –cm-menu-icon-width: 24px;<br>    –swiper-theme-color: #007aff;<br>    –swiper-navigation-size: 44px;<br>    font-size: 14px;<br>    font-family: -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;<br>    -webkit-font-smoothing: antialiased;<br>    color: rgba(0,0,0,.75);<br>    font-variant-ligatures: common-ligatures;<br>    line-height: 1.625;<br>    tab-size: 4;<br>    outline: 0;<br>    font-weight: normal;<br>    -webkit-box-sizing: border-box;<br>    padding: 0;<br>    margin: 0;<br>    word-wrap: break-word;</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;-webkit-text-size-adjust: 100%;
+--animate-duration: 1s;
+--animate-delay: 1s;
+--animate-repeat: 1;
+--cm-color-primary-rgb: 64, 158</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>[报错解决] Failed to connect to github.com port 443 after ***** ms: Couldn‘t connect to server</title>
     <link href="http://example.com/2024/01/30/Untitled-1/"/>
     <id>http://example.com/2024/01/30/Untitled-1/</id>
@@ -53,27 +77,6 @@
       
     <summary type="html">&lt;p&gt;今天想把自己有关文件格式转换的Python脚本上传到github上，但是无奈遇到报错：&lt;/p&gt;
 &lt;p&gt;fatal: unable to access ‘&lt;a href=&quot;http://github.com/&quot;&gt;http://github.com/&lt;/a&gt;******’: F</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>windows安装Git</title>
-    <link href="http://example.com/2024/01/30/windows%E5%AE%89%E8%A3%85Git/"/>
-    <id>http://example.com/2024/01/30/windows%E5%AE%89%E8%A3%85Git/</id>
-    <published>2024-01-29T18:06:00.000Z</published>
-    <updated>2024-01-29T19:31:33.042Z</updated>
-    
-    <content type="html"><![CDATA[<p>一、git的安装<br>1、下载git<br>git官网地址：<a href="https://git-scm.com/download/win/">https://git-scm.com/download/win/</a><br>选择所需要的版本，进行下载。</p><p>2、下载完成之后，双击下载好的exe文件进行安装。</p><p>3、默认是C盘，推荐修改一下路径（非中文并且没有空格），然后点击下一步。</p><p>4、Git 选项配置，推荐默认设置，然后下一步。</p><p>5、Git 安装目录名，不用修改，直接点击下一步。</p><p>6、Git 的默认编辑器，建议使用默认的 Vim 编辑器，然后点击下一步。</p><p>7、在Git创建分支后的默认的名字（master）,如果没有特别的使用默认的设置，点击next即可。</p><p>8、修改 Git 的环境变量，使用默认的即可，点击next。</p><p>9、开启https连接，保证数据传输数据的安全，按照默认的选择即可。</p><p>10、配置 Git 文件的行末换行符，Windows 使用 CRLF，Linux 使用 LF，选择第一个自动转换，然后继续下一步。</p><p>11、选择 Git 终端类型，选择默认的 Git Bash 终端，然后继续下一步。</p><p>12、选择 Git pull 合并的模式，选择默认，然后下一步。</p><p>13、选择 Git 的凭据管理器，选择默认的跨平台的凭据管理器，然后下一步。</p><p>13、其他配置，选择默认设置，然后下一步。</p><p>14、额外的配置选项，技术还不成熟，有已知的 bug，不建议勾选，然后点击右下角的 Install按钮，开始安装 Git。</p><p>15、安装完成后，点击FInish安装完成。</p><p>二、检查<br>打开控制面板（win+R 输入cmd），查看Git版本信息</p><p>&#x2F;&#x2F; 查看命令<br>git –version<br>1<br>2</p><p>三、配置<br>1、配置用户名和邮箱<br>git config –global user.name laptoy<br>git config –global user.email <a href="mailto:&#108;&#x61;&#x70;&#116;&#111;&#x79;&#x34;&#53;&#56;&#x40;&#x31;&#54;&#51;&#46;&#99;&#x6f;&#x6d;">&#108;&#x61;&#x70;&#116;&#111;&#x79;&#x34;&#53;&#56;&#x40;&#x31;&#54;&#51;&#46;&#99;&#x6f;&#x6d;</a><br>1<br>2<br>任意位置右键点击 git bash 跳出界面后输入</p><p>2、查看是否配置成功<br>1、进入该目录查看.gitconfig文件</p><p>2、命令行查看</p><p>git config user.name<br>git config user.email<br>1<br>2</p><p>注：签名的作用是区分不同操作者身份，用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的。Git 首次安装必须设置一下用户签名，否则无法提交代码。这里设置用户签名和将来登录 GitHub（或其他代码托管中心）的账号没有任何关系</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;一、git的安装&lt;br&gt;1、下载git&lt;br&gt;git官网地址：&lt;a href=&quot;https://git-scm.com/download/win/&quot;&gt;https://git-scm.com/download/win/&lt;/a&gt;&lt;br&gt;选择所需要的版本，进行下载。&lt;/p&gt;
-&lt;p</summary>
       
     
     
