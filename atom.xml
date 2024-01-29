@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-29T19:07:06.388Z</updated>
+  <updated>2024-01-29T19:26:41.151Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Untitled</title>
-    <link href="http://example.com/2024/01/30/Untitled-1/"/>
-    <id>http://example.com/2024/01/30/Untitled-1/</id>
-    <published>2024-01-29T19:07:05.000Z</published>
-    <updated>2024-01-29T19:07:06.388Z</updated>
+    <title>GitHub Pages 快速入门</title>
+    <link href="http://example.com/2024/01/30/Untitled/"/>
+    <id>http://example.com/2024/01/30/Untitled/</id>
+    <published>2024-01-29T19:25:03.000Z</published>
+    <updated>2024-01-29T19:26:41.151Z</updated>
     
-    <content type="html"><![CDATA[<p>asdwadawdx</p>]]></content>
+    <content type="html"><![CDATA[<p>GitHub Pages 快速入门<br>您可以使用 GitHub Pages 来展示一些开源项目、主持博客甚或分享您的简历。 本指南将帮助您开始创建下一个网站。</p><p>重要</p><p>GitHub Pages 适用于具有 GitHub Free 和组织的 GitHub Free 的公共仓库，以及具有 GitHub Pro、GitHub Team、GitHub Enterprise Cloud 和 GitHub Enterprise Server 的公共和私有仓库。 有关详细信息，请参阅“GitHub 的计划”。</p><p>本文内容<br>简介<br>创建网站<br>更改标题和说明<br>后续步骤<br>简介<br>GitHub Pages 是通过 GitHub 托管和发布的公共网页。 启动和运行的最快方法是使用 Jekyll 主题选择器加载预置主题。 然后，您可以修改 GitHub Pages 的内容和样式。</p><p><img src="/%5Cimages%5Cimage.png%5C" alt="upload successful"><br>本指南将引导你在 username.github.io 创建用户站点。</p><p>创建网站<br>在任何页面的右上角，选择 ，然后单击“新建存储库”****。</p><p>GitHub 下拉菜单的屏幕截图，其中显示了用于创建新项的选项。 菜单项“新建存储库”用深橙色框标出。</p><p>输入 username.github.io 作为存储库名称。 将 username 替换为你的 GitHub 用户名。 例如，如果用户名为 octocat，则存储库名称应为 octocat.github.io。<br>存储库中 GitHub Pages 设置的屏幕截图。 存储库名称字段包含文本“octocat.github.io”，并用深橙色框出。</p><p>在存储库名称下，单击 “设置”。 如果看不到“设置”选项卡，请选择“”下拉菜单，然后单击“设置”********。</p><p>存储库标头的屏幕截图，其中显示了选项卡。 “设置”选项卡以深橙色边框突出显示。</p><p>在边栏的“代码和自动化”部分中，单击“ Pages”。</p><p>在“生成和部署”的“源”下，选择“从分支进行部署”。</p><p>在“生成和部署”的“分支”下，使用分支下拉菜单并选择发布源。<br>GitHub 存储库中 Pages 设置的屏幕截图。 用于为发布源选择分支的菜单（标有“无”）用深橙色框出。</p><p>（可选）打开存储库的 README.md 文件。 README.md 文件是你将为站点编写内容的位置。 您可以编辑文件或暂时保留默认内容。</p><p>访问 username.github.io 以查看新网站。 请注意，对站点的更改在推送到 GitHub 后，最长可能需要 10 分钟才会发布。</p><p>更改标题和说明<br>默认情况下，站点的标题为 username.github.io。 可通过编辑存储库中的 _config.yml 文件来更改标题。 您还可以为您的网站添加说明。</p><p>单击存储库的“代码”选项卡。</p><p>在文件列表中，单击 _config.yml 以打开该文件。</p><p>单击  编辑文件。</p><p>_config.yml 文件已包含指定站点主题的行。 添加一个新行，其中 title: 后跟所需的标题。 添加一个新行，其中 description: 后跟所需的描述。 例如：</p><p>theme: jekyll-theme-minimal<br>title: Octocat’s homepage<br>description: Bookmark this to keep an eye on my project updates!<br>编辑完文件后，单击“提交更改”。</p><p>后续步骤<br>若要详细了解如何向网站添加其他页面，请参阅“使用 Jekyll 向 GitHub Pages 站点添加内容”。</p><p>若要详细了解如何使用 Jekyll 设置 GitHub Pages 站点，请参阅“关于 GitHub 页面和 Jekyll”。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;asdwadawdx&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;GitHub Pages 快速入门&lt;br&gt;您可以使用 GitHub Pages 来展示一些开源项目、主持博客甚或分享您的简历。 本指南将帮助您开始创建下一个网站。&lt;/p&gt;
+&lt;p&gt;重要&lt;/p&gt;
+&lt;p&gt;GitHub Pages 适用于具有 GitHub Free 和组织的 Gi</summary>
       
     
     
@@ -38,18 +39,40 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/01/30/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://example.com/2024/01/30/hello-world%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <title>[报错解决] Failed to connect to github.com port 443 after ***** ms: Couldn‘t connect to server</title>
+    <link href="http://example.com/2024/01/30/Untitled-1/"/>
+    <id>http://example.com/2024/01/30/Untitled-1/</id>
+    <published>2024-01-29T19:07:05.000Z</published>
+    <updated>2024-01-29T19:24:23.291Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天想把自己有关文件格式转换的Python脚本上传到github上，但是无奈遇到报错：</p><p>fatal: unable to access ‘<a href="http://github.com/">http://github.com/</a>******’: Fai<br>led to connect to github.com port 443 after 21051 ms: Couldn’t connect to server<br>这是由于本机系统代理端口和git端口不一致导致的。</p><p>解决办法：<br>一、查看自己本机系统代理：</p><p>设置—网络和Internet—代理—地址:端口</p><p> 二、修改git配置：（其中的10809改为你电脑的端口号）</p><p>git config –global http.proxy <a href="http://127.0.0.1:10809/">http://127.0.0.1:10809</a><br>git config –global https.proxy <a href="http://127.0.0.1:10809/">http://127.0.0.1:10809</a><br>三、再次push就可以成功上传。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天想把自己有关文件格式转换的Python脚本上传到github上，但是无奈遇到报错：&lt;/p&gt;
+&lt;p&gt;fatal: unable to access ‘&lt;a href=&quot;http://github.com/&quot;&gt;http://github.com/&lt;/a&gt;******’: F</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>windows安装Git</title>
+    <link href="http://example.com/2024/01/30/windows%E5%AE%89%E8%A3%85Git/"/>
+    <id>http://example.com/2024/01/30/windows%E5%AE%89%E8%A3%85Git/</id>
     <published>2024-01-29T18:06:00.000Z</published>
-    <updated>2024-01-29T18:37:42.298Z</updated>
+    <updated>2024-01-29T19:23:09.905Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>一、git的安装<br>1、下载git<br>git官网地址：<a href="https://git-scm.com/download/win/">https://git-scm.com/download/win/</a><br>选择所需要的版本，进行下载。</p><p>2、下载完成之后，双击下载好的exe文件进行安装。</p><p>3、默认是C盘，推荐修改一下路径（非中文并且没有空格），然后点击下一步。</p><p>4、Git 选项配置，推荐默认设置，然后下一步。</p><p>5、Git 安装目录名，不用修改，直接点击下一步。</p><p>6、Git 的默认编辑器，建议使用默认的 Vim 编辑器，然后点击下一步。</p><p>7、在Git创建分支后的默认的名字（master）,如果没有特别的使用默认的设置，点击next即可。</p><p>8、修改 Git 的环境变量，使用默认的即可，点击next。</p><p>9、开启https连接，保证数据传输数据的安全，按照默认的选择即可。</p><p>10、配置 Git 文件的行末换行符，Windows 使用 CRLF，Linux 使用 LF，选择第一个自动转换，然后继续下一步。</p><p>11、选择 Git 终端类型，选择默认的 Git Bash 终端，然后继续下一步。</p><p>12、选择 Git pull 合并的模式，选择默认，然后下一步。</p><p>13、选择 Git 的凭据管理器，选择默认的跨平台的凭据管理器，然后下一步。</p><p>13、其他配置，选择默认设置，然后下一步。</p><p>14、额外的配置选项，技术还不成熟，有已知的 bug，不建议勾选，然后点击右下角的 Install按钮，开始安装 Git。</p><p>15、安装完成后，点击FInish安装完成。</p><p>二、检查<br>打开控制面板（win+R 输入cmd），查看Git版本信息</p><p>&#x2F;&#x2F; 查看命令<br>git –version<br>1<br>2</p><p>三、配置<br>1、配置用户名和邮箱<br>git config –global user.name laptoy<br>git config –global user.email <a href="mailto:&#108;&#97;&#112;&#116;&#x6f;&#121;&#52;&#53;&#x38;&#64;&#x31;&#x36;&#51;&#46;&#99;&#x6f;&#x6d;">&#108;&#97;&#112;&#116;&#x6f;&#121;&#52;&#53;&#x38;&#64;&#x31;&#x36;&#51;&#46;&#99;&#x6f;&#x6d;</a><br>1<br>2<br>任意位置右键点击 git bash 跳出界面后输入</p><p>2、查看是否配置成功<br>1、进入该目录查看.gitconfig文件</p><p>2、命令行查看</p><p>git config user.name<br>git config user.email<br>1<br>2</p><p>注：签名的作用是区分不同操作者身份，用户的签名信息在每一个版本的提交信息中能够看到，以此确认本次提交是谁做的。Git 首次安装必须设置一下用户签名，否则无法提交代码。这里设置用户签名和将来登录 GitHub（或其他代码托管中心）的账号没有任何关系</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;一、git的安装&lt;br&gt;1、下载git&lt;br&gt;git官网地址：&lt;a href=&quot;https://git-scm.com/download/win/&quot;&gt;https://git-scm.com/download/win/&lt;/a&gt;&lt;br&gt;选择所需要的版本，进行下载。&lt;/p&gt;
+&lt;p</summary>
       
     
     
