@@ -6,11 +6,11 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-29T19:31:15.502Z</updated>
+  <updated>2024-01-29T22:53:07.248Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>hk1996yhx</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/01/30/Untitled/"/>
     <id>http://example.com/2024/01/30/Untitled/</id>
     <published>2024-01-29T19:25:00.000Z</published>
-    <updated>2024-01-29T19:31:15.502Z</updated>
+    <updated>2024-01-29T22:53:07.248Z</updated>
     
     <content type="html"><![CDATA[<p>Skip to main content<br>GitHub 文档<br>搜索 GitHub Docs<br>搜索 GitHub Docs<br>主页<br>GitHub Pages<br>快速入门</p><p>入门</p><p>使用 Jekyll 设置站点</p><p>配置自定义域<br>GitHub Pages&#x2F;<br>GitHub Pages 快速入门<br>您可以使用 GitHub Pages 来展示一些开源项目、主持博客甚或分享您的简历。 本指南将帮助您开始创建下一个网站。</p><p><img src="/%5Cimages%5Cpasted-0.png%5C" alt="upload successful"><br>重要</p><p>GitHub Pages 适用于具有 GitHub Free 和组织的 GitHub Free 的公共仓库，以及具有 GitHub Pro、GitHub Team、GitHub Enterprise Cloud 和 GitHub Enterprise Server 的公共和私有仓库。 有关详细信息，请参阅“GitHub 的计划”。</p><p>本文内容<br>简介<br>创建网站<br>更改标题和说明<br>后续步骤<br>简介<br>GitHub Pages 是通过 GitHub 托管和发布的公共网页。 启动和运行的最快方法是使用 Jekyll 主题选择器加载预置主题。 然后，您可以修改 GitHub Pages 的内容和样式。</p><p>本指南将引导你在 username.github.io 创建用户站点。</p><p>创建网站<br>在任何页面的右上角，选择 ，然后单击“新建存储库”****。</p><p>GitHub 下拉菜单的屏幕截图，其中显示了用于创建新项的选项。 菜单项“新建存储库”用深橙色框标出。</p><p>输入 username.github.io 作为存储库名称。 将 username 替换为你的 GitHub 用户名。 例如，如果用户名为 octocat，则存储库名称应为 octocat.github.io。<br>存储库中 GitHub Pages 设置的屏幕截图。 存储库名称字段包含文本“octocat.github.io”，并用深橙色框出。</p><p>在存储库名称下，单击 “设置”。 如果看不到“设置”选项卡，请选择“”下拉菜单，然后单击“设置”********。</p><p>存储库标头的屏幕截图，其中显示了选项卡。 “设置”选项卡以深橙色边框突出显示。</p><p>在边栏的“代码和自动化”部分中，单击“ Pages”。</p><p>在“生成和部署”的“源”下，选择“从分支进行部署”。</p><p>在“生成和部署”的“分支”下，使用分支下拉菜单并选择发布源。<br>GitHub 存储库中 Pages 设置的屏幕截图。 用于为发布源选择分支的菜单（标有“无”）用深橙色框出。</p><p>（可选）打开存储库的 README.md 文件。 README.md 文件是你将为站点编写内容的位置。 您可以编辑文件或暂时保留默认内容。</p><p>访问 username.github.io 以查看新网站。 请注意，对站点的更改在推送到 GitHub 后，最长可能需要 10 分钟才会发布。</p><p>更改标题和说明<br>默认情况下，站点的标题为 username.github.io。 可通过编辑存储库中的 _config.yml 文件来更改标题。 您还可以为您的网站添加说明。</p><p>单击存储库的“代码”选项卡。</p><p>在文件列表中，单击 _config.yml 以打开该文件。</p><p>单击  编辑文件。</p><p>_config.yml 文件已包含指定站点主题的行。 添加一个新行，其中 title: 后跟所需的标题。 添加一个新行，其中 description: 后跟所需的描述。 例如：</p><p>theme: jekyll-theme-minimal<br>title: Octocat’s homepage<br>description: Bookmark this to keep an eye on my project updates!<br>编辑完文件后，单击“提交更改”。</p><p>后续步骤<br>若要详细了解如何向网站添加其他页面，请参阅“使用 Jekyll 向 GitHub Pages 站点添加内容”。</p><p>若要详细了解如何使用 Jekyll 设置 GitHub Pages 站点，请参阅“关于 GitHub 页面和 Jekyll”。</p><p>按 alt+up 激活<br>帮助和支持<br>此文档对你有帮助吗？</p><p>隐私策略<br>仍需帮助？<br>询问 GitHub 社区<br>联系支持人员<br>Legal<br>© 2024 GitHub, Inc.<br>术语<br>隐私<br>状态<br>定价<br>专家服务<br>博客</p>]]></content>
     
@@ -36,6 +36,10 @@
     
     
     
+    <category term="打完" scheme="http://example.com/categories/%E6%89%93%E5%AE%8C/"/>
+    
+    
+    <category term="阿迪王" scheme="http://example.com/tags/%E9%98%BF%E8%BF%AA%E7%8E%8B/"/>
     
   </entry>
   
