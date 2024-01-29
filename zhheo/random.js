@@ -1,1 +1,1 @@
-var posts=["2024/01/30/Untitled/","2024/01/30/Untitled-1/","2024/01/30/windows安装Git/","2024/01/30/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2024/01/30/Untitled-1/","2024/01/30/Untitled/","2024/01/30/hello-world/","2024/01/30/windows安装Git/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
